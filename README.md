@@ -13,3 +13,6 @@ Python, NumPy, Pandas, scikit-learn, OpenCV, PyRadiomics
 
 ## Notes
 All data used in this project is synthetic and intended for demonstration purposes only.
+
+
+This repository is under active development.
